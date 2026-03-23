@@ -1,0 +1,20 @@
+# --- ИГНОРИРУЕМ МУСОР (ПРОФИЛИ БРАУЗЕРОВ) ---
+.vscode/chrome-debug-profile-mobile/
+.vscode/chrome-mobile-profile/
+.vscode/msedge-debug-profile/
+.vscode/msedge-debug-profile-mobile/
+.vscode/*.log
+
+# --- СИСТЕМНЫЙ МУСОР ---
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# --- ПРАВИЛА ДЛЯ .VSCODE ---
+# Разрешаем ИИ-агентам и Git видеть только важные инструменты
+!.vscode/launch.json
+!.vscode/scripts/
+!.vscode/README.md
+
+# Разрешаем файл лицензии
+!LICENSE

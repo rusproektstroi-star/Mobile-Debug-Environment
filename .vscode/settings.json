@@ -1,0 +1,4 @@
+{
+	"simpleBrowser.useIntegratedBrowser": true,
+	"workbench.browser.enableChatTools": true
+}

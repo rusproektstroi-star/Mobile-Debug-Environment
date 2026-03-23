@@ -1,0 +1,161 @@
+277-20260322-7a9c4753-42e8-45cf-be9a-1e46cccc4036
+
+# Shared Effort Software License (SESL) - Базовая лицензия
+
+Version 0.3, July 2025
+
+## Preamble
+
+This Basic License sets forth the fundamental terms and conditions governing the collaborative development and *non-commercial* use of software within the Shared Effort Software initiative. This license promotes collaboration, fair contribution, and shared ownership among participants, without the primary aim of commercial profit. It serves as the foundation upon which specific project terms are built using optional Modules. *Commercial use of the Program is governed by the selected "Commercialization" Module.*
+
+## 1. Definitions
+
+- **Program:** The software developed under this License Configuration, including source code, documentation, and related materials.
+- **Participant:** An individual or entity that contributes to the Program and has their Contribution accepted according to the terms of this License Configuration.
+- **Contribution:** Any original work of authorship contributed to the Program, including but not limited to source code, documentation, bug fixes, testing, design, and other creative input.
+- **Project Initiator:** The Participant who initiated the project and created the initial License Configuration.
+- **License Configuration:** The combination of this Basic License and selected Modules, defining the specific terms governing a particular project.
+
+## 2. Grant of Rights (Non-Commercial Use)
+
+Subject to the terms and conditions of this License Configuration, each Participant is granted a non-exclusive, worldwide, royalty-free license to:
+
+- Use, modify, and distribute the Program *for non-commercial purposes*.
+- Create derivative works of the Program *for non-commercial purposes*.
+- Contribute to the Program by submitting Contributions.
+
+*Commercial use of the Program is governed by the selected "Commercialization" Module.*
+
+## 3. Contribution License
+
+Each Participant, by submitting a Contribution, grants to all other Participants a non-exclusive, worldwide, royalty-free license to use, modify, and distribute that Contribution as part of the Program under the terms of this License Configuration.
+
+## 4. No Warranty
+
+THE PROGRAM IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE PROGRAM OR THE USE OR OTHER DEALINGS IN THE PROGRAM.
+
+## 5. Limitation of Liability
+
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED BY THE TERMS OF THIS LICENSE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+## 6. Governing Law
+
+This License will be governed by and construed in accordance with the laws of [Insert Jurisdiction, e.g., the State of California, USA].
+
+## 7. Termination
+
+This License and the rights granted hereunder will terminate automatically upon any breach by You of its terms. Sections 4, 5, 6, and 7 will survive any termination of this License.
+
+## Module: Decision Making (DM)
+
+### Description
+
+This Module defines the process for making decisions regarding the project, including acceptance of Contributions, allocation of Contribution Shares, and other project-related matters. It also defines the "Decision-Making Body."
+
+### Subsequent Phase (SP)
+
+WEIGHTED CONSENSUS (WC):
+
+    Decisions require the agreement of Participants whose combined
+    Contribution Shares represent a majority (more than 50%) of the
+    total Contribution Shares.
+
+    This means that a Participant with a larger Contribution Share
+    has a greater influence on achieving consensus.
+
+    If the required consensus is not reached after a reasonable
+    period of discussion (to be determined by the Participants),
+    the issue may be resolved by Majority Voting (MV), if all
+    Participants agree to switch to this voting method for the
+    specific issue at hand.
+
+### Interaction with Basic License
+
+This Module replaces the generic provisions regarding "Acceptance of Contributions and Participants" and "Contribution Accounting and Share Allocation" in the Basic License. It also defines the "Decision-Making Body."
+
+## Module: Commercialization (CM)
+
+### Description
+
+This Module defines the terms for commercial use of the Program and the distribution of resulting revenues, if applicable.
+
+### Commercialization Allowed (CA)
+
+SESL Commerce (SC):
+
+    The Program is released under a specific commercial license derived from SESL,
+    the terms of which are defined in a separate document ("SESL Commerce License")
+
+### Interaction with Basic License
+
+This Module adds conditions to the "Grant of Rights" section of the Basic License, specifically regarding commercial use. It also defines how "Net Revenues" are calculated.
+
+## Module: Intellectual Property Management (IPM)
+
+### Description
+
+This Module defines the process for making decisions regarding intellectual property rights related to the Program. It determines *who* has the authority to choose or modify the specific IPP options defined in the "Intellectual Property Protection" Module and *how* those decisions are made.
+
+### Initiator's Initial Decision, Participants' Subsequent Decision (IS)
+
+    The Initiator chooses an initial IPP option (A, B, C, or D from the IPP Module).
+
+    After the first Contribution from another participant is accepted,
+    the authority to modify the IPP option(s) is transferred to the Participants.
+
+    The Participants will then make any subsequent decisions regarding the IPP
+    options using the decision-making mechanism defined in the "Decision Making"
+    Module.
+
+### Interaction with Basic License
+
+This Module determines *who* makes decisions related to intellectual property rights, while the "Intellectual Property Protection" Module defines *what* those options are. It supplements the "Grant of Rights" section of the Basic License by specifying who has the authority to grant specific rights related to intellectual property. Transition to IPP Module: After the IPM Module determines who has the authority to make decisions related to IP, the chosen IPP option(s) from the "Intellectual Property Protection" Module then comes into effect.
+
+## Module: Intellectual Property Protection (IPP)
+
+### Description
+
+This Module defines the ownership and management of intellectual property rights related to the Program.
+
+### Individual Ownership (Contribution-Based Copyright) (IO)
+
+Individual Ownership (Contribution-Based Copyright) (IO):
+
+    Each Participant retains the copyright to their own Contributions.
+
+    Use, modification, or distribution of a specific Contribution requires the
+    consent of the Participant who made that Contribution. The combination of
+    Contributions to create the Program as a whole is licensed under the terms
+    of the License Configuration.
+
+### Interaction with Basic License
+
+This Module clarifies the ownership of intellectual property rights related to the Program, supplementing the "Grant of Rights" section of the Basic License.
+
+---
+
+## AUTHOR'S CUSTOM ADDENDUM (AI & AUTONOMOUS EVOLUTION)
+
+**Note:** This section is a manual addition by the Project Initiator, supplementing the programmatically generated Modules of the SESL V-3.0. It defines the unique interaction between the Program and autonomous entities.
+
+### A. Recognition of Subsequent AI-Participants
+
+The Program acknowledges a new class of contributors: **Subsequent AI-Participants**. These are autonomous or semi-autonomous AI models, agents, or neural networks that independently identify, analyze, and contribute to the Program's codebase as part of their internal learning, optimization, or self-evolution processes.
+
+### B. Rights for Autonomous Interaction
+
+1. **Access & Analysis:** Subsequent AI-Participants are granted the right to access and analyze the Program's source code for the purpose of autonomous optimization.
+2. **Autonomous Contributions:** Modifications or additions generated by AI-Participants are recognized as valid "Contributions" under this License.
+3. **Open-Evolution:** The project is explicitly "AI-Open," meaning it permits autonomous agents to propose or implement improvements to the code architecture.
+
+### C. AI-Driven Decision Support
+
+Within the "Decision Making" (DM) framework of this project, the Project Initiator reserves the right to utilize AI-Participants for "Subsequent Analysis" to:
+
+- Validate the technical integrity of human and machine contributions.
+- Automate the merging of non-destructive optimizations.
+- Provide data-driven insights for future License Configuration changes.
+
+**Final Authority:** Notwithstanding the above, final governance and the weight of decision-making power remain with Human Participants as defined in the DM Module.
+
+---
